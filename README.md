@@ -28,4 +28,4 @@ This projects shows the use of basic components that are provided by Three.js.
 
 http://a4-tobias-mack.glitch.me/
 
-![website4](https://github.com/tobias-mack/a4-creative-coding/blob/main/screenshot.png?raw=true)
+![website4](a4-creative-coding/screenshot.png)
